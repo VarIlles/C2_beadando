@@ -1,0 +1,1 @@
+public enum fruitNameEnum {Alma, Narancs, Kiwi, Szolo, Banan, Szilva, Korte}
